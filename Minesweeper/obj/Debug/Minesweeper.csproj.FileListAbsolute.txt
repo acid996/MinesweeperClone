@@ -1,0 +1,17 @@
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\bin\Debug\Minesweeper.exe.config
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\bin\Debug\Minesweeper.exe
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\bin\Debug\Minesweeper.pdb
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\bin\Debug\Newtonsoft.Json.dll
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\bin\Debug\Newtonsoft.Json.xml
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.GameWonForm.resources
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.HighscoresForm.resources
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.MainForm.resources
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.SettingsForm.resources
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.csproj.CopyComplete
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.exe
+D:\Stefan\Downloads\minesweeper-master\minesweeper-master\Minesweeper\obj\Debug\Minesweeper.pdb
